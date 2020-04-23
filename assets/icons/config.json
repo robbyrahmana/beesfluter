@@ -1,0 +1,82 @@
+{
+  "name": "FlutterIcon",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "c835a3a0692cca9dffde9a8a561da938",
+      "css": "off",
+      "code": 59393,
+      "src": "elusive"
+    },
+    {
+      "uid": "31951fbb9820ed0690f675b3d495c8da",
+      "css": "chat",
+      "code": 61670,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "484b4ad2058d17849f205c4054b6f315",
+      "css": "setting",
+      "code": 59396,
+      "src": "linecons"
+    },
+    {
+      "uid": "wg849ixsobykxshs6efpc6fk4m0fq8bh",
+      "css": "mail",
+      "code": 59397,
+      "src": "typicons"
+    },
+    {
+      "uid": "9f7e588c66cfd6891f6f507cf6f6596b",
+      "css": "phone",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "a0f0c53759f74b3c2e4ea6a9fbceb198",
+      "css": "bug_report",
+      "code": 59394,
+      "src": "material"
+    },
+    {
+      "uid": "e36d581e4f2844db345bddc205d15dda",
+      "css": "group",
+      "code": 59395,
+      "src": "elusive"
+    },
+    {
+      "uid": "08db5357646aae59e018ba87f2d466cd",
+      "css": "th-large-outline",
+      "code": 59398,
+      "src": "typicons"
+    },
+    {
+      "uid": "d9ca3bd7577f1110305a2ca1841826cb",
+      "css": "megaphone",
+      "code": 59399,
+      "src": "elusive"
+    },
+    {
+      "uid": "7ad4d2306ebda8452e5e3eff3cd8241c",
+      "css": "thumbs-up",
+      "code": 59400,
+      "src": "entypo"
+    },
+    {
+      "uid": "cdb000f745167bbada14e2c1d8404d98",
+      "css": "paper-plane",
+      "code": 61469,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "8b80d36d4ef43889db10bc1f0dc9a862",
+      "css": "user",
+      "code": 59401,
+      "src": "fontawesome"
+    }
+  ]
+}

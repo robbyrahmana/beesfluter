@@ -1,0 +1,46 @@
+name: bees_student
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+
+  # firebase
+  cloud_firestore: ^0.12.7
+  firebase_auth: ^0.11.1+10
+  # built_value
+  built_collection: ">=2.0.0 <5.0.0"
+  built_value: ">=5.5.5 <7.0.0"
+  # state management
+  provider: ^3.0.0+1
+  # additional widget
+  flutter_slider_indicator: ^0.1.1
+  flare_flutter: ^1.5.2
+  intl: ^0.15.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # flutter packages pub run build_runner build
+  # https://medium.com/flutter/some-options-for-deserializing-json-with-flutter-7481325a4450
+  build_runner: ^1.0.0
+  built_value_generator: ^6.7.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/loader.flr
+  fonts:
+    - family: Ubuntu
+      fonts:
+        - asset: assets/fonts/Ubuntu-Regular.ttf
+    - family: FlutterIcon
+      fonts:
+        - asset: assets/icons/fonts/FlutterIcon.ttf

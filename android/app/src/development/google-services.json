@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "461221394525",
+    "firebase_url": "https://beesstudent-dev.firebaseio.com",
+    "project_id": "beesstudent-dev",
+    "storage_bucket": "beesstudent-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461221394525:android:b15b956aee9f466c",
+        "android_client_info": {
+          "package_name": "com.beesstudent.bees_student.development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461221394525-fn654hkd7choq98v15d5qmhdtv0vni9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAupN2Lv2vWD7W13xPAJ241PErb8rpI_H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461221394525-fn654hkd7choq98v15d5qmhdtv0vni9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
